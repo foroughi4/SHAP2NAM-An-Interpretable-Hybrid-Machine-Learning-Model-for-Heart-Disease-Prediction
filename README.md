@@ -46,8 +46,8 @@ Developed as part of a **Master of Engineering (MEng) research project at Toront
 
 ---
 
-## 🧩 Visualizations
+##  Visualizations
 - **Feature Importance Ranking (SHAP values)**
 - **First-Order Risk Curves**
 - **Second-Order Interaction Surfaces**
-- **Confusion Matrix and ROC Curve**
+  
