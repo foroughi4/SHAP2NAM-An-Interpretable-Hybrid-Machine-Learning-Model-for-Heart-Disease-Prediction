@@ -22,7 +22,7 @@ Developed as part of a **Master of Engineering (MEng) research project at Toront
 - **High performance:**  
   95.1 % accuracy, 100 % recall, and 0.97 AUC on the Cleveland dataset.  
 - **Robust preprocessing:**  
-  Iterative imputation, one-hot encoding, standard scaling, and cross-validation.  
+  Iterative imputation, one-hot encoding, standard scaling.
 - **Clinically meaningful insights:**  
   Highlights feature relationships such as `thal × cp`, `age × chol`, and `oldpeak × slope`.
 
